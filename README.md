@@ -4,4 +4,4 @@ to queue, their items are decremented by one untill there are no more items and 
 
 Setup:
 1. Clone this repository
-2. Run application by typing "npm run dev" in your projects directory terminal. 
+2. Type "npm run dev" in your project's directory terminal.
